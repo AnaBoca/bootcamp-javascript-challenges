@@ -11,3 +11,9 @@ needed for any technical interview.
 ### Challenge Problem
 * Write a program to convert degrees from [Celcius to Fahrenheit](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/cel2fah.js)
 * Write a program to convert degrees from [Fahrenheit to Celcius](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/fah2cel.js)
+
+
+## [🧮 Ordinal Challenge](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/ordinal_challenge.js)
+
+### Challenge Problem
+* Determine the ordinal of a number and display it on the screen
