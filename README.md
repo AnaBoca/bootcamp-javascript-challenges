@@ -16,5 +16,5 @@ needed for any technical interview.
 
 
 ## [🧮 FooBar Challenge](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/foobar_challenge.js)
-* IF the number is divisible by 3 then print "Foo", if the number is divisible by 5 then print "Bar" and if the number is divisible by both 3 and 5, print "FooBar"
+* If the number is divisible by 3 then print "Foo", if the number is divisible by 5 then print "Bar" and if the number is divisible by both 3 and 5, print "FooBar"
 * Write a program to play the FooBar game and display `n` elements of the FooBar pattern
