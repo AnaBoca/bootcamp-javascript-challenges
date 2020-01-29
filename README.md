@@ -18,3 +18,24 @@ needed for any technical interview.
 ## [🧮 FooBar Challenge](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/foobar_challenge.js)
 * If the number is divisible by 3 then print "Foo", if the number is divisible by 5 then print "Bar" and if the number is divisible by both 3 and 5, print "FooBar"
 * Write a program to play the FooBar game and display `n` elements of the FooBar pattern
+
+
+## [🧮 Build the Join Method](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/join.js)
+The method `_.join` takes an array of values and concatenates them with a comma separator (that's the default, but it can be overridden). Implement this method in JavaScript, starting with the following code as a placeholder:  
+
+```javascript
+"use strict";
+
+var _ = {
+  // Implements:
+  // https://lodash.com/docs#join
+  join: (array, separator = ',') => {
+    // write code to implement method here
+  }
+}
+
+
+const value = _.join(["hello", "goodbye"], ", ")
+
+console.log(value);
+```  
