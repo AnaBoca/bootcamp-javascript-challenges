@@ -39,3 +39,7 @@ const value = _.join(["hello", "goodbye"], ", ")
 
 console.log(value);
 ```  
+
+## [🧮 Build the Map Method](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/map.js)
+Underscore and lodash contain a method called `map`, which operates very similar to the map method in Ruby.  
+* Implement this method.
