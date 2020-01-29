@@ -10,6 +10,4 @@ needed for any technical interview.
 
 ### Challenge Problem
 * Write a program to convert degrees from [Celcius to Fahrenheit](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/cel2fah.js)
-
-### Challenge Problem
 * Write a program to convert degrees from [Fahrenheit to Celcius](https://github.com/AnaBoca/bootcamp-javascript-challenges/blob/master/js-challenges/fah2cel.js)
